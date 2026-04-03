@@ -35,10 +35,11 @@ I am a passionate Software Engineer based in Sri Lanka, specializing in full-sta
 
 ### 📈 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=janith-chandima-perera&show_icons=true&theme=radical" alt="Janith's GitHub Stats" />
+<!-- <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=janith-perera&show_icons=true&theme=radical" alt="Janith's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janith-chandima-perera&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
+![Janith's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janith-chandima-perera&theme=radical)
 
 ---
 ⭐️ *From feature planning to deployment, I build robust systems with a focus on code quality and user experience.*
