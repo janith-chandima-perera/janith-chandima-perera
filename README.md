@@ -22,7 +22,7 @@ I am a passionate Software Engineer based in Sri Lanka, specializing in full-sta
 - Python | PHP | C#
 
 **Frontend**
-- JavaScript | React | React Native (Expo)
+- JavaScript | TypeScript | React | React Native (Expo)
 - Ant Design (antd) | Material-UI (MUI) | Bootstrap 5
 - Angular
 
